@@ -58,17 +58,6 @@ cd ecommerce
 ⚠️ This is a private repository — you’ll need access permissions.
 
 2. Install Dependencies
-Using npm:
-bash
-Copy
-Edit
-npm install
-If you face peer dependency issues:
-
-bash
-Copy
-Edit
-npm install --legacy-peer-deps
 Using yarn:
 bash
 Copy
