@@ -6,7 +6,7 @@
     "@reduxjs/toolkit": "^1.8.5",
     "@sendgrid/mail": "^8.1.5",
     "@testing-library/user-event": "^13.5.0",
-    "ajv": "^8.17.1",
+    "ajv": "^8.18.0",
     "ajv-keywords": "^5.1.0",
     "axios": "0.24.0",
     "bcryptjs": "^3.0.2",
